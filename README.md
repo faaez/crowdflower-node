@@ -13,9 +13,9 @@ crowdflower.addData(jobNumber,data);
 
 Endpoints implemented:
 
--addData: add rows to an existing job
+*addData: add rows to an existing job
 
 Implements the following rate limiting:
 
--10 requests per second
--6200 requests per hour
+*10 requests per second
+*6200 requests per hour
