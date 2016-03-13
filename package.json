@@ -1,0 +1,27 @@
+{
+  "name": "crowdflower",
+  "version": "0.0.0",
+  "description": "A Node client for the Crowdflower API",
+  "main": "src/crowdflower.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faaez/crowdflower-node.git"
+  },
+  "keywords": [
+    "Crowdflower",
+    "crowdsourcing"
+  ],
+  "dependencies": {
+    "limiter":"1.1.0",
+    "request":"latest"
+  },
+  "author": "Faaez Ul Haq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faaez/crowdflower-node/issues"
+  },
+  "homepage": "https://github.com/faaez/crowdflower-node#readme"
+}
